@@ -1,0 +1,23 @@
+/*
+* Sarah Houseal
+* 11/9/18
+* Spooky Places Assignment
+*/
+
+/* The Universal Selector */
+
+* {
+
+}
+
+/* Makes the background color on my web page whitesmoke */
+body {
+    background-color: whitesmoke;
+    font-family: "Times New Roman", serif;
+}
+
+img {   
+}
+    #chapel { width: 300px; height: 200px; }
+    #vortex { width: 300px; height: 200px; }
+    #tombs { width: 300px; height: 200px; }
